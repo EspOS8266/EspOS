@@ -4,7 +4,7 @@
 
 # EspOS
 
-Operation System for ESP8266
+Operating system for the ESP8266
 
 ## 🔧 Functions
 

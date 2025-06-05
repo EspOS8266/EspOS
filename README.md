@@ -15,4 +15,4 @@ Ez egy rövid leírás arról, hogy mit csinál a projekt. Például: ESP8266 al
 ## 🚀 Telepítés
 
 
-## 👉 [HTTPS://WWW.ESP8266.ORG](https://www.esp8266.org)
+## 👉 [https://www.esp8266.org](https://www.esp8266.org)

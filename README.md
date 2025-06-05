@@ -2,17 +2,17 @@
   ><img class="aligncenter wp-image-322" src="http://www.esp8266.org/wp-content/uploads/2021/11/xlogo.jpg" alt="" width="1000" height="250" />
 </p>
 
-# Projekt Neve
+# EspOS
 
-Ez egy rövid leírás arról, hogy mit csinál a projekt. Például: ESP8266 alapú adatgyűjtő, IoT vezérlés, vagy bármi más.
+Operation System for ESP8266
 
-## 🔧 Funkciók
+## 🔧 Functions
 
-- Gyors és könnyű beállítás
-- Webes vezérlés
-- ESP8266 kompatibilitás
+Many
 
-## 🚀 Telepítés
+## 🚀 Install
+
+/flash/Flash_firmware.exe
 
 
 ## 👉 [https://www.esp8266.org](https://www.esp8266.org)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ESP8266_chip_pinout.png" alt="Projekt képe" width="600">
+  ><img class="aligncenter wp-image-322" src="http://www.esp8266.org/wp-content/uploads/2021/11/xlogo.jpg" alt="" width="1000" height="250" />
 </p>
 
 # Projekt Neve
